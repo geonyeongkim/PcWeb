@@ -1,0 +1,124 @@
+/************************** all ****************************/
+body {
+	text-align:center;  	
+	background-size: 100%; 
+	background-image: url("/webterm1/images/back.jpg");
+	}
+	
+	
+	.common_btn{
+	border:none;
+	font-size: 18px;
+	color:#FFFFFF;
+ 	white-space: nowrap;
+ 	background-size: 100%; 
+ 	background-image: url("/webterm1/images/bluestar.jpg");
+}
+	
+	
+/*********************** loginform ************************/
+.div_2{
+position:fixed;
+right:0;
+bottom:0;
+width:500px;
+height:350px;
+background-image: url("/webterm1/images/bg4.jpg");
+border-top-left-radius: 10em;
+border-bottom-right-radius: 5em;
+background-size: 100%;
+/* color:black; */
+/* -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; */
+}
+
+/* submit{
+	.login
+	{
+	 	font: 20pt 고딕; 
+	 	color:#FFFFFF; 
+		background-image: url('images/bluestar.jpg');
+	 	background-repeat:no-repeat;
+	 	background-size:100% 100%; 
+	 	width:280px; 
+	 	height:75px";
+	}
+}
+
+ */
+ 
+ .addbtn{
+ margin: 5px 0;
+ padding: .5em .75em;
+ border-radius: .25em;
+ font-size: 30px;
+ border:none;
+ white-space: nowrap;
+  background-image: url("/webterm1/images/bg4.jpg");
+ }
+
+.div_3{
+font-size:10pt;
+}
+/*****************fee **********************/
+.start{
+	border:none;
+	width:200px; 
+	height:200px; 
+	border-radius:100px; 
+	background-image:url(/webterm1/images/st_btn1.png);
+	background-size:cover;
+}
+.a{
+	font-size:40px;
+	font-weight:900;
+}
+
+
+/******************** seat / seatmap ********************/
+.button {
+   width:80pt;
+   height:80pt;
+   color: white;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 40px;
+   background-size:cover;
+}
+.wor {
+   width:160pt;
+   height:80pt;
+   background-color: white;
+   color: black;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 15px;
+}
+
+/******************** screen ********************/
+.screen_div1{
+	text-align:center; 
+	float:right;
+	border-radius:15px;
+	width:250px;
+	height:135px;
+	background-size: 100%; 
+	background-image: url("/webterm1/images/bg13.PNG");
+	text-size : 30pt;
+	font-weight: bold;
+	}
+	
+img.link-button1{ width:30px; height: 30px;}
+
+.screen_div2{
+    position: relative;
+    top: 450px;
+    left: 700px;
+}
+
+	
+img.link-button2{ border-radius:15px; width:100px; height: 100px;}
+
