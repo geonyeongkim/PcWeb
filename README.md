@@ -10,7 +10,7 @@ spring jdbc oracle ajax, html, css, jsp
 * 시간충전
 * 관리자
 
-<img src = './img/main.jpg' width = '500' height = '450' />
-<img src = './img/seat.jpg' width = '500' height = '450' />
-<img src = './img/time.jpg' width = '500' height = '450' />
-<img src = './img/user.jpg' width = '500' height = '450' />
+<img src = './img/main.jpg' width = '600' height = '450' />
+<img src = './img/seat.jpg' width = '600' height = '450' />
+<img src = './img/time.jpg' width = '600' height = '450' />
+<img src = './img/user.jpg' width = '600' height = '450' />
