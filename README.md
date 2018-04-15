@@ -1,5 +1,6 @@
 # PcWeb
-웹을 통한 PC방 좌석 사용 프로젝트
+
+#### 웹을 통한 PC방 좌석 사용 프로젝트
 
 spring jdbc oracle ajax, html, css, jsp
 
